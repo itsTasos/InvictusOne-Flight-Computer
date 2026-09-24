@@ -1,0 +1,60 @@
+(footprint "HPR_H1_verified_geometry"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "H1"
+		(at 0 4.7 0)
+		(layer "F.Fab")
+		(uuid "d809e8f0-a03c-4d9f-98b5-4c7e983477da")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Value" "MountingHole"
+		(at 0 -4.7 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c5e02b2a-804e-45eb-8d43-894e45d1818f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3131d55c-bede-49dd-9c21-d126669b1f62")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a95bbd63-713c-4097-857c-33ccef265a63")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr board_only exclude_from_pos_files)
+	(duplicate_pad_numbers_are_jumpers no)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 3.7 3.7)
+		(drill 3.2)
+		(layers "*.Cu" "*.Mask")
+		(uuid "12d6b53c-fa64-4722-8e6d-012560c0405f")
+	)
+	(embedded_fonts no)
+)

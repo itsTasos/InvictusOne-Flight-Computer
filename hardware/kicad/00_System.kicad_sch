@@ -1,0 +1,316 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "2492747e-fe3a-4e83-9fd1-9a4fa32a693d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 125 170)
+		(size 80 42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "10ab0fc2-353b-489f-b617-30f262fba383")
+		(property "Sheetname" "EXTERNAL IO / TEST"
+			(at 125 169.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "07_External_IO.kicad_sch"
+			(at 125 212.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HPR_FC_G474_3S"
+				(path "/40b8c99e-6778-422e-b05a-d6546286cca9/6840652f-8b15-4795-95e7-7951f9299256"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 125 30)
+		(size 80 42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "1ebcdb57-b3d0-486b-ad41-c46a0e291ca7")
+		(property "Sheetname" "INERTIAL SENSORS"
+			(at 125 29.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "02_Inertial_Sensors.kicad_sch"
+			(at 125 72.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HPR_FC_G474_3S"
+				(path "/40b8c99e-6778-422e-b05a-d6546286cca9/6840652f-8b15-4795-95e7-7951f9299256"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 220 30)
+		(size 80 42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a1512bf3-942e-4f36-a5ac-2d8ed77c03cc")
+		(property "Sheetname" "BAROMETER"
+			(at 220 29.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "03_Barometer.kicad_sch"
+			(at 220 72.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HPR_FC_G474_3S"
+				(path "/40b8c99e-6778-422e-b05a-d6546286cca9/6840652f-8b15-4795-95e7-7951f9299256"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30 30)
+		(size 80 42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "be74f65c-aa7c-4ba9-b79c-2bc73b293de2")
+		(property "Sheetname" "MCU / DEBUG / CLOCK"
+			(at 30 29.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "01_MCU_Debug_Clock.kicad_sch"
+			(at 30 72.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HPR_FC_G474_3S"
+				(path "/40b8c99e-6778-422e-b05a-d6546286cca9/6840652f-8b15-4795-95e7-7951f9299256"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 125 100)
+		(size 80 42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "cad740ee-8a50-4326-abcf-03d319260be0")
+		(property "Sheetname" "CAN-FD MODULE BUS"
+			(at 125 99.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "05_CAN_Module_Bus.kicad_sch"
+			(at 125 142.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HPR_FC_G474_3S"
+				(path "/40b8c99e-6778-422e-b05a-d6546286cca9/6840652f-8b15-4795-95e7-7951f9299256"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30 100)
+		(size 80 42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d2ac9e8c-cbd1-4d75-b7e6-0338fad44eff")
+		(property "Sheetname" "FLIGHT-LOG STORAGE"
+			(at 30 99.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "04_Storage.kicad_sch"
+			(at 30 142.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HPR_FC_G474_3S"
+				(path "/40b8c99e-6778-422e-b05a-d6546286cca9/6840652f-8b15-4795-95e7-7951f9299256"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 220 100)
+		(size 80 42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fbd6c9d9-b1bb-4946-9246-1e8908f85d93")
+		(property "Sheetname" "POWER / PROTECTION"
+			(at 220 99.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "06_Power_Protection.kicad_sch"
+			(at 220 142.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HPR_FC_G474_3S"
+				(path "/40b8c99e-6778-422e-b05a-d6546286cca9/6840652f-8b15-4795-95e7-7951f9299256"
+					(page "9")
+				)
+			)
+		)
+	)
+)

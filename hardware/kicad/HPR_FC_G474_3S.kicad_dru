@@ -1,0 +1,5 @@
+(version 1)
+
+(rule "LPS22DF locked-footprint local clearance"
+    (condition "A.intersectsArea('baroFinePitch')")
+    (constraint clearance (min 0.12mm)))

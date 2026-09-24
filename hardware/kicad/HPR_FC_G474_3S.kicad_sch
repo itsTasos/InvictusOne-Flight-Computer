@@ -1,0 +1,58 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "40b8c99e-6778-422e-b05a-d6546286cca9")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 40 40)
+		(size 120 70)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6840652f-8b15-4795-95e7-7951f9299256")
+		(property "Sheetname" "MFC_G474 SYSTEM"
+			(at 40 39.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "00_System.kicad_sch"
+			(at 40 110.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "HPR_FC_G474_3S"
+				(path "/40b8c99e-6778-422e-b05a-d6546286cca9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

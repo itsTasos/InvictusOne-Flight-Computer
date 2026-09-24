@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+
+  (lib (name "MFC_G474") (type "KiCad") (uri "${KIPRJMOD}/libraries/symbols/MFC_G474.kicad_sym") (options "") (descr ""))
+)
